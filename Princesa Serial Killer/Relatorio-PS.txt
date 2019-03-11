@@ -1,0 +1,8 @@
+Princesa 
+-Fiz tudo
+-Fiz sozinho, tinha feito antes "simulando" remover um elemento, jogando ele para o final e puxando o restante e diminuindo o "tamanho" do vetor, 
+desse jeito levei umas 4h T-T pq eu nao lembrava mais umas coisinhas e nao lembrava como programar em C, depois eu vi o jeito que o senhor fez e achei
+tao mais simples, ai resolvi fazer igual para ficar mais simples de resolver o princesa 2.0 
+-Aprendi a organizar melhor o meu codigo e aprendi direitin como andar em forma modular
+-Ainda possua dificuldade em andar de forma modular
+-Eu fiz uma vez da maneira ensinada em aula, mas ai eu fiz a cagada de formatar o HD e nao salvar, ai fiz de novo em 20 min.
