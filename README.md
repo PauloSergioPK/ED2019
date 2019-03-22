@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/agKnzyvs.jpg)
+![alt text](https://i.imgur.com/agKnzyvm.jpg)
 
 ## 01 - Princesa_v2
 - O que eu fiz : 
