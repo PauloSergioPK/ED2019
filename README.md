@@ -1,4 +1,4 @@
-![alt text](https://www.instagram.com/p/BqBnOqPnoX3Q8p-Tqe-7JhIOrsG-i-fco9oDso0/)
+![alt text](https://i.imgur.com/agKnzyvs.jpg)
 
 ## 01 - Princesa_v2
 - O que eu fiz : 
