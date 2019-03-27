@@ -38,4 +38,5 @@
 - Quanto tempo levou pra fazer a atividade
 - Fiz 3 em umas 3h e comecei a fazer o circulo e nao funcionava, mas ai hoje dia 27/3
   consegui fazer em 15 min
+- OBS : O fractal 3d bugado eu deixei na pasta pois achei bonito
 
