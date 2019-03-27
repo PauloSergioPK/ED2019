@@ -26,3 +26,16 @@
 - fiz o labirinto em 30 min, e nao sabia oq fazer em seguida, ai depois que descobri que era mostrar tambem a saida
   esperei uns dias ai fiz (Nao sei quanto tempo, mas nao foi mto)
 
+## 03 - Fractais
+- O que eu fiz : 
+- fiz tudo
+- Com quem e como fiz : 
+- fiz sozinho
+- O que aprendeu e sabe fazer
+- fractal e desenhar com o xpaint
+- O que tem dificuldade ainda
+- Desenhar usando angulos, me bugo todo
+- Quanto tempo levou pra fazer a atividade
+- Fiz 3 em umas 3h e comecei a fazer o circulo e nao funcionava, mas ai hoje dia 27/3
+  consegui fazer em 15 min
+
