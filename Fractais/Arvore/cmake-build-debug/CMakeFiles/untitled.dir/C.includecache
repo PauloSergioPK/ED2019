@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-D:/untitled/main.c
+D:/ED2019/Fractais/Arvore/main.c
 xpaint.h
-D:/untitled/xpaint.h
+D:/ED2019/Fractais/Arvore/xpaint.h
 
-D:/untitled/xpaint.h
+D:/ED2019/Fractais/Arvore/xpaint.h
 string.h
 -
 vector
@@ -18,11 +18,11 @@ vector
 string
 -
 lodepng.h
-D:/untitled/lodepng.h
+D:/ED2019/Fractais/Arvore/lodepng.h
 iostream
 -
 lodepng.h
-D:/untitled/lodepng.h
+D:/ED2019/Fractais/Arvore/lodepng.h
 limits.h
 -
 stdio.h
@@ -30,11 +30,11 @@ stdio.h
 stdlib.h
 -
 stb_truetype.h
-D:/untitled/stb_truetype.h
+D:/ED2019/Fractais/Arvore/stb_truetype.h
 stdio.h
 -
 stb_truetype.h
-D:/untitled/stb_truetype.h
+D:/ED2019/Fractais/Arvore/stb_truetype.h
 math.h
 -
 math.h
