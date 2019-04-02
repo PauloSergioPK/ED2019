@@ -40,3 +40,15 @@
   consegui fazer em 15 min
 - OBS : O fractal 3d bugado eu deixei na pasta pois achei bonito
 
+## 04 - Princesa_Com_Listas_Duplamente_Encadeadas
+- O que eu fiz : 
+- fiz tudo
+- Com quem e como fiz : 
+- fiz sozinho
+- O que aprendeu e sabe fazer
+- Aprendi a usar lista duplamente encadeada e um pouco mais de C++
+- O que tem dificuldade ainda
+- C++ e ponteiros me bugam um tiquinhozinho ( pra nao falar muito T-T )
+- Quanto tempo levou pra fazer a atividade
+- Levei duas horas e meia, o codigo tava certo com duas horas, passei meia hora catando erro
+  e o erro era uma variavel nada a ver
