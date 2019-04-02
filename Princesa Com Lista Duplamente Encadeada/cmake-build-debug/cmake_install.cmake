@@ -1,4 +1,4 @@
-# Install script for directory: D:/untitled1
+# Install script for directory: D:/ED2019/Princesa Com Lista Duplamente Encadeada
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/untitled1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/ED2019/Princesa Com Lista Duplamente Encadeada/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

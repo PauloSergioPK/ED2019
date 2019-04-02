@@ -86,27 +86,27 @@ void Print(Lista lista, int escolhido){
 }
 
 int main(){
-    Lista lista;
+    Lista lista; // declaro a lista
     int total, escolhido, fase;
     cin >> total >> escolhido >> fase;
 
-    for(int i = 1; i <= total; i++){
+    for(int i = 1; i <= total; i++){ //leio a lista
         lista.push_back(i*fase);
         fase*=-1;
     }
 
     Print(lista,escolhido);
-    Node * aux = lista.head->next;
+    Node * aux = lista.head->next; // no auxiliar para percorrer a lista  sem perder referencia
     int aux2 = 0;
     while(lista.head->next->next != lista.tail){
         if(aux->value == escolhido || aux->value == escolhido*-1) {
-            if (aux->value > 0) {
+            if (aux->value > 0) {                                 //daqui
                 if (aux->next == lista.tail) {
-                    aux = lista.head;
+                    aux = lista.head;                              //vejo se o numero sucessor e a cauda, se for ,pulo para a cabeca
                     lista.remove(aux->next);
                 }
                 else
-                    lista.remove(aux->next);
+                    lista.remove(aux->next);                       //se nao for removo o da frente
 
                 if(escolhido < 0)
                     aux2= escolhido*-1;
@@ -115,18 +115,18 @@ int main(){
 
                 for (int i = 0; i < aux2; i++) {
                     aux = aux->next;
-                    if (aux == lista.tail)
+                    if (aux == lista.tail)                          //nesse for eu procuro o proximo escolhido
                         aux = lista.head->next;
                 }
                 escolhido = aux->value;
                 Print(lista, escolhido);
-            }
-            else{
+            }                                                     //ate aqui e para se o numero for positivo
+            else{                                                 //daqui
                 if (aux->prev == lista.head) {
-                    aux = lista.tail;
+                    aux = lista.tail;                              //vejo se o numero antecessor e a head, se for ,pulo para a cauda
                     lista.remove(aux->prev);
                 }
-                else
+                else                                               //se nao for removo o de tras
                     lista.remove(aux->prev);
 
                 if(escolhido < 0)
@@ -135,13 +135,13 @@ int main(){
                     aux2 = escolhido;
 
                 for (int i = 0; i < aux2; i++) {
-                    aux = aux->prev;
+                    aux = aux->prev;                                //nesse for eu procuro o proximo escolhido
                     if (aux == lista.head)
                         aux = lista.tail->prev;
                 }
                 escolhido = aux->value;
                 Print(lista, escolhido);
-            }
+            }                                                    //ate aqui e para se o numero for negativo
         }
         else
             aux = aux->next;

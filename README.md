@@ -52,3 +52,4 @@
 - Quanto tempo levou pra fazer a atividade
 - Levei duas horas e meia, o codigo tava certo com duas horas, passei meia hora catando erro
   e o erro era uma variavel nada a ver
+- Obs : codigo esta comentado devido ta um pouquito confusso para entender oq eu fiz
