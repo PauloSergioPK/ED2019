@@ -54,6 +54,18 @@
   e o erro era uma variavel nada a ver
 - Obs : codigo esta comentado devido ta um pouquito confusso para entender oq eu fiz
 
+## 05 - Ordenacoes
+- O que eu fiz : 
+- fiz tudo
+- Com quem e como fiz : 
+- fiz o selection e o bubble so , e o insertion com um amiguinho que veio me visitar
+- O que aprendeu e sabe fazer
+- Aprendi o insertion
+- O que tem dificuldade ainda
+- nada eu acho
+- Quanto tempo levou pra fazer a atividade
+- 30 min
+
 ## 06 - PathFind
 - O que eu fiz : 
 - fiz tudo
