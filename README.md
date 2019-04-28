@@ -53,3 +53,17 @@
 - Levei duas horas e meia, o codigo tava certo com duas horas, passei meia hora catando erro
   e o erro era uma variavel nada a ver
 - Obs : codigo esta comentado devido ta um pouquito confusso para entender oq eu fiz
+
+## 06 - PathFind
+- O que eu fiz : 
+- fiz tudo
+- Com quem e como fiz : 
+- fiz sozinho
+- O que aprendeu e sabe fazer
+- Aprendi a fazer o pathfind e o floodfill e um pouquinho mais de C++
+- O que tem dificuldade ainda
+- C++ e ponteiros me bugam um tiquinhozinho ( pra nao falar muito T-T )
+- Quanto tempo levou pra fazer a atividade
+- Levei duas horas, so demorei pra comecar a fazer, pois tava numa bad vibe com muita coisa acumulada (consegui ajeitar o horario novamente)
+- Obs : A parte mais dificil ( MUITO DIFICIL ) foi "calcular" as distancias de cada ponto para o ponto inicial, 
+        pois eu tentei de tudo, ate que finalmente deu o jeito certo
