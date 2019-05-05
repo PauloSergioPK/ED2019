@@ -30,7 +30,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
+            <state relative-caret-position="490">
               <caret line="128" column="96" selection-start-line="128" selection-start-column="96" selection-end-line="128" selection-end-column="96" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -63,8 +63,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,16 +107,17 @@
       <workItem from="1554169249047" duration="223000" />
       <workItem from="1554169488083" duration="4000" />
       <workItem from="1554169514876" duration="62000" />
+      <workItem from="1554169755790" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9105000" />
+    <option name="totallyTimeSpent" value="9120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2514" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1414018" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14262429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -147,7 +148,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
+        <state relative-caret-position="490">
           <caret line="128" column="96" selection-start-line="128" selection-start-column="96" selection-end-line="128" selection-end-column="96" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />

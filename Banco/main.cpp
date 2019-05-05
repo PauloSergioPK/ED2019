@@ -43,7 +43,7 @@ struct Banco{
     }
 
     void show(){
-        for(int i = 0; i < caixas.size();i++){
+        for(int i = 0; i < (int) caixas.size();i++){
             if(caixas[i]!= nullptr) {
                 cout << "[";
                 caixas[i]->show();
@@ -72,7 +72,7 @@ struct Banco{
     void tic(){
         fila_saida.erase(fila_saida.begin(),fila_saida.end());
 
-        for(int i = 0; i < caixas.size();i++){
+        for(int i = 0; i < (int) caixas.size();i++){
             if(caixas[i] != nullptr){
                 if(caixas[i]->docs > 0){
                     caixas[i]->docs --;
@@ -155,7 +155,7 @@ int main() {
             continue;
         }
         else{
-            for(int i = 0; i < amoedo->caixas.size(); i++){
+            for(int i = 0; i < (int) amoedo->caixas.size(); i++){
                 if(amoedo->caixas[i] != nullptr){
                     still_have = true;
                 }
@@ -169,7 +169,7 @@ int main() {
     }
 
 
-    if(amoedo->fila_saida.size() > 0)
+    if((int) amoedo->fila_saida.size() > 0)
         amoedo->fila_saida.erase(amoedo->fila_saida.begin(),amoedo->fila_saida.end());
 
     cout << "documentos recebidos : " << amoedo->docs_adquiridos << endl;
