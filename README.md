@@ -79,3 +79,16 @@
 - Levei duas horas, so demorei pra comecar a fazer, pois tava numa bad vibe com muita coisa acumulada (consegui ajeitar o horario novamente)
 - Obs : A parte mais dificil ( MUITO DIFICIL ) foi "calcular" as distancias de cada ponto para o ponto inicial, 
         pois eu tentei de tudo, ate que finalmente deu o jeito certo
+
+## 07 - Banco
+- O que eu fiz : 
+- fiz tudo
+- Com quem e como fiz :
+- fiz tudo so, pedi ajuda a um amigo meu sobre como usar o stringstream
+- O que aprendeu e sabe fazer
+- Aprendi "muito" (melhorei bastante) o conceito de ponteiros e aprendi usar stringstream e o uso de structs
+- O que tem dificuldade ainda
+- alguns conceitos bestas
+- Quanto tempo levou para fazer a atividade
+- 3h ( tive que ver umas video aulas e tal)
+
