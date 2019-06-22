@@ -111,6 +111,7 @@
 - apenas eu
 - O que aprendeu e sabe fazer
 - Aprendi arvores
+- https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=trees&filters%5Bdifficulty%5D%5B%5D=easy
 
 
  
