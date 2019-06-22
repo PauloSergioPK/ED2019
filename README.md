@@ -92,3 +92,25 @@
 - Quanto tempo levou para fazer a atividade
 - 3h ( tive que ver umas video aulas e tal)
 
+## 08 - Comparativo
+- O que eu fiz:
+- fiz tudo
+- Com quem e como fiz :
+- Apenas eu
+- O que aprendeu e sabe fazer
+- Ja sabia fazer
+- O que tem dificuldade ainda
+- Nao sei
+- Quanto tempo levou pra fazer a atividade
+- 20 min
+
+## 09 - HackerRank Tree
+- O que eu fiz :
+- fiz tudo
+- Com quem e como fiz
+- apenas eu
+- O que aprendeu e sabe fazer
+- Aprendi arvores
+
+
+ 
